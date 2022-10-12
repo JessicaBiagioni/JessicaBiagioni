@@ -90,9 +90,12 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=JessicaBiagioni&&style=flat-square" align="center" />
 </div>  
+
   
 
 <br/>  
+
+<div>Contactame! jessica.biagioni.fotografia@gmail.com </div>
 
 <div align="center"></div>
 <br />
